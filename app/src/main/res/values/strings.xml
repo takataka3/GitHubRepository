@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TryGitapplication</string>
+    <string name="nakatani">nakatani</string>
+    <string name="nakayama">nakayama</string>
+    <string name="taka">takatori</string>
+    <string name="title">GitSampleApp</string>
 </resources>
